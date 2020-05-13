@@ -1,0 +1,5 @@
+##REQUIREMENTS##
+	- Python 3.X
+	- tkinter module
+	- math module
+Note: Both module are prebuilt with python. No need to install manually.
